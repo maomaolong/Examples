@@ -1,0 +1,61 @@
+
+<dict>
+	cocos2d.x.version: quick-cocos2d-x 2.2.5
+	cocos2d.x.compiled_with_profiler: false
+	cocos2d.x.compiled_with_gl_state_cache: true
+	gl.vendor: NVIDIA Corporation
+	gl.renderer: GeForce GT 640/PCIe/SSE2
+	gl.version: 4.3.0
+	gl.max_texture_size: 16384
+	gl.max_texture_units: 192
+	gl.supports_PVRTC: false
+	gl.supports_NPOT: true
+	gl.supports_BGRA8888: false
+	gl.supports_discard_framebuffer: false
+	gl.supports_vertex_array_object: true
+</dict>
+lua_loadChunksFromZIP() - load zip file: E:\ZhanHuang\quick-cocos2d-x\lib\framework_precompiled\framework_precompiled.zip
+lua_loadChunksFromZIP() - loaded chunks count: 118
+------------------------------------------------
+LOAD LUA FILE: E:/ZhanHuang/quick-cocos2d-x/samples/process_state/scripts/main.lua
+------------------------------------------------
+[0.3497] [INFO] 
+[0.3500] [INFO] # DEBUG                        = 1
+[0.3507] [INFO] #
+[0.3514] [INFO] # device.platform              = windows
+[0.3520] [INFO] # device.model                 = unknown
+[0.3525] [INFO] # device.language              = cn
+[0.3531] [INFO] # device.writablePath          = E:\ZhanHuang\quick-cocos2d-x\samples\process_state\
+[0.3537] [INFO] # device.cachePath             = E:\ZhanHuang\quick-cocos2d-x\samples\process_state\
+[0.3542] [INFO] # device.directorySeparator    = \
+[0.3548] [INFO] # device.pathSeparator         = ;
+[0.3553] [INFO] #
+[0.3572] [INFO] # CONFIG_SCREEN_AUTOSCALE      = FIXED_WIDTH
+[0.3575] [INFO] # CONFIG_SCREEN_WIDTH          = 640.00
+[0.3581] [INFO] # CONFIG_SCREEN_HEIGHT         = 426.67
+[0.3587] [INFO] # display.widthInPixels        = 960.00
+[0.3595] [INFO] # display.heightInPixels       = 640.00
+[0.3601] [INFO] # display.contentScaleFactor   = 1.50
+[0.3607] [INFO] # display.width                = 640.00
+[0.3613] [INFO] # display.height               = 426.67
+[0.3620] [INFO] # display.cx                   = 320.00
+[0.3626] [INFO] # display.cy                   = 213.33
+[0.3631] [INFO] # display.left                 = 0.00
+[0.3637] [INFO] # display.right                = 640.00
+[0.3643] [INFO] # display.top                  = 426.67
+[0.3649] [INFO] # display.bottom               = 0.00
+[0.3655] [INFO] # display.c_left               = -320.00
+[0.3660] [INFO] # display.c_right              = 320.00
+[0.3666] [INFO] # display.c_top                = 213.33
+[0.3672] [INFO] # display.c_bottom             = -213.33
+[0.3677] [INFO] #
+BaseFactory
+dragonBones::CCDBManager::printTickCount tickcount:1 thisptr:3739656 msCCDBManager:0, sizeof(128) 96, 20
+[0.3836] 0: [FSM] CHANGED STATE: none to ready
+[0.3857] 0: [FSM] START
+[3.4369] 0: [FSM] CHANGED STATE: ready to run
+[3.4528] 
+[3.4533] 1: [FSM] APPORTION
+[12.1766] 1: [FSM] CHANGED STATE: run to block
+[12.1926] 
+[12.1930] 2: [FSM] WAIT
